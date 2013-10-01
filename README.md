@@ -1,4 +1,4 @@
 CAD
 ===
 
-Files used by the CAD team are stored here.
+CAD files for Mechanical team are stored here.
